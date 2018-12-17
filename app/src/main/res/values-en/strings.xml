@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Xiaoer Quick Call</string>
+    <string name="input_first_pinyin">Please input A~Z</string>
+    <string name="loading_contacts">Loading Contacts</string>
+    <string name="load_fail">Load fail </string>
+</resources>
